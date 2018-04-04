@@ -1,5 +1,6 @@
 html {
   background: url(https://www.adaptlearning.org/wp-content/uploads/2015/12/header_image.jpg?id=924);
+  background-attachment: fixed;
   font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body > .inner > h1 {
