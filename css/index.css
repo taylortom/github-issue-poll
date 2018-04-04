@@ -1,0 +1,75 @@
+html {
+  background: url(https://www.adaptlearning.org/wp-content/uploads/2015/12/header_image.jpg?id=924);
+  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body > .inner > h1 {
+  margin: 60px 0 50px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 40px;
+  color: white;
+}
+.issues {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.issue > .count {
+  width: 20px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+  display: inline-block;
+  padding: 5px;;
+}
+.issue > .inner {
+  display: inline-block;
+  border: 1px solid #dadada;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 3px;
+  color: #313131;
+  background: white;
+}
+.issue > .inner > div {
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: top;
+  text-align: left;
+}
+.issue > .inner > .reactions {
+  height: 50px;
+  width: 30px;
+  padding: 0;
+  background: #263944;
+  border-radius: 3px;
+  text-align: center;
+  font-size: 20px;
+}
+.issue > .inner > .reactions > .reaction.positive {
+  color: white;
+}
+.issue > .inner > .reactions > .reaction.negative {
+  color: #9096a0;
+}
+.issue > .inner > .number {
+  width: 80px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.issue > .inner > .number a {
+  color: #36e1a5 !important;
+}
+.issue > .inner > .title {
+  width: 400px;
+}
+.issue > .inner > .labels {
+  width: 200px;
+}
+.issue > .inner > .labels > .label {
+  display: inline-block;
+  padding: 3px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  border: 1px solid #3fa5cd;
+  color: #3fa5cd;
+}
