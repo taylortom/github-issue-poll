@@ -13,6 +13,15 @@ body > .inner > h1 {
   margin-bottom: 50px;
   text-align: center;
 }
+.issues .loading-image {
+  display: block;
+  margin: 0 auto;
+}
+.issues .loading-text {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
 .issue > .count {
   width: 20px;
   text-align: center;
